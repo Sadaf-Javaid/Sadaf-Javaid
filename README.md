@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sadafjavaid071@gmail.com**
 
-- ⚡ Fun fact **When I’m not coding, I’m probably thinking about coding 🤔.**
+- ⚡ Fun fact **When I’m not coding, I’m probably thinking about coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
