@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 📝 I occasionally write articles on [https://medium.com/@sadaf-javaid](https://medium.com/@sadaf-javaid)
-
 - 💬 Ask me about **React, TypeScript, JavaScript, and Tailwind CSS**
 
 - 📫 How to reach me **sadafjavaid071@gmail.com**
